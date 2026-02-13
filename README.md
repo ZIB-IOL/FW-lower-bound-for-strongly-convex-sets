@@ -25,7 +25,7 @@ After installing Julia and the required packages, you can run the main experimen
 ```julia
 include("backward-reconstruction.jl")
 # or
-# include("bisection-search.jl")
+include("bisection-search.jl")
 ```
 
 ## Citation
